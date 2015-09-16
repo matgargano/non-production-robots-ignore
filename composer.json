@@ -1,3 +1,4 @@
+
 {
     "name": "mgargano/non-production-robots-ignore",
     "description": "Non Production Robots Ignore is a simple WordPress package that is used with vlucas/phpdotenv (or similar) that sets environment variables to set robots.txt to ignore all on all environments except production.",
