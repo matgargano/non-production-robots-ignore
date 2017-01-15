@@ -10,7 +10,7 @@
             "email": "mat@statenweb.com"
         }
     ],
-    "type": "library",
+    "type": "wordpress-muplugin",
     "suggest": {
         "vlucas/phpdotenv": "Allows you to set required fields for a project, one of which is used by this project, 'ENV'"
     },
