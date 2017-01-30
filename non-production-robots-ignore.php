@@ -1,4 +1,11 @@
 <?php
+/*
+ * Plugin Name: Force Robots Production Ignore
+ * Plugin URI:  https://statenweb.com
+ * Description: Force Robots Production Ignore
+ * Version:     0.1.4
+ */
+
 
 class Force_Robots_Ignore {
 
