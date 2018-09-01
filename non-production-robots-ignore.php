@@ -3,7 +3,7 @@
  * Plugin Name: Force Robots Production Ignore
  * Plugin URI:  https://statenweb.com
  * Description: Force Robots Production Ignore
- * Version:     0.1.4
+ * Version:     0.2.0
  */
 
 

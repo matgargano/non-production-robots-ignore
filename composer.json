@@ -1,20 +1,20 @@
-
 {
-    "name": "mgargano/non-production-robots-ignore",
-    "description": "Non Production Robots Ignore is a simple WordPress package that is used with vlucas/phpdotenv (or similar) that sets environment variables to set robots.txt to ignore all on all environments except production.",
-    "keywords": ["robots.txt", "robots", "wordpress"],
-    "license": "GPLv2+",
-    "authors": [
-        {
-            "name": "Mat Gargano",
-            "email": "mat@statenweb.com"
-        }
-    ],
-    "type": "wordpress-plugin",
-    "suggest": {
-        "vlucas/phpdotenv": "Allows you to set required fields for a project, one of which is used by this project, 'ENV'"
-    },
-    "autoload": {
-        "files": ["non-production-robots-ignore.php"]
+  "name": "mgargano/non-production-robots-ignore",
+  "description": "Non Production Robots Ignore is a simple WordPress plugin that is used with vlucas/phpdotenv (or similar) that sets environment variables to set robots.txt to ignore all on all environments except production.",
+  "keywords": [
+    "robots.txt",
+    "robots",
+    "wordpress"
+  ],
+  "license": "GPLv2+",
+  "authors": [
+    {
+      "name": "Mat Gargano",
+      "email": "mat@statenweb.com"
     }
+  ],
+  "type": "wordpress-plugin",
+  "suggest": {
+    "vlucas/phpdotenv": "Allows you to set required fields for a project, one of which is used by this project, 'ENV'"
+  }
 }
