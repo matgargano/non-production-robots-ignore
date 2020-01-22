@@ -12,7 +12,10 @@ class Force_Robots_Ignore {
 	public static function init() {
 
 
-		add_filter('option_blog_public', '__return_false' );
+		add_filter('robots_txt', function(){
+		    return "User Agent:*".PHP_EOL."Disallow: /";
+
+        }, PHP_INT_MAX );
 
 
 	}
